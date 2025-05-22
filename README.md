@@ -1,4 +1,4 @@
-# CodeTutor UI - Modern React Landing Page
+# Modern React Landing Page
 
 A modern, responsive landing page built with React, Tailwind CSS, and Vite. This project demonstrates a professional UI implementation with features like dynamic navigation, dropdown menus, and mobile responsiveness.
 
@@ -51,11 +51,4 @@ CodeTutor-UI/
 └── tailwind.config.js
 ```
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Create a pull request.
 
