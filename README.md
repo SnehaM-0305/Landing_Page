@@ -2,7 +2,7 @@
 
 A modern, responsive landing page built with React, Tailwind CSS, and Vite. This project demonstrates a professional UI implementation with features like dynamic navigation, dropdown menus, and mobile responsiveness.
 
-![CodeTutor UI](/src/assets/github-cover.png)
+
 
 ## Features
 
@@ -59,13 +59,3 @@ CodeTutor-UI/
 4. Push your changes to your fork.
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-
-For more information or to get in touch, please visit [your website](https://yourwebsite.com).
-
-Thank you for using CodeTutor UI!
